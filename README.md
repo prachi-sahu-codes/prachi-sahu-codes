@@ -1,6 +1,6 @@
  <p align="center" >👋 Hi, I’m <strong>Prachi Sahu</strong>.
   <p align="center" >👀 I’m interested in Frontend Web Development.
-<p align="center" >🌱 I’m currently learning HTML CSS Javascript.
+<p align="center" >🌱 I’m currently learning HTML5, CSS, Javascript.
 <p align="center" >📫 prachisahu998@gmail.com
 
 <!---
