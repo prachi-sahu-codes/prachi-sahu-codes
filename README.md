@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/_prachi_sahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prachi_sahu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prachi-sahu-96b228200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi-sahu-96b228200" height="30" width="40" /></a>
-<a href="https://prachiblogs.hashnode.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prachiblogs.hashnode.dev" height="30" width="40" /></a>
+<a href="https://prachiblogs.hashnode.dev" target="_blank"><img align="center" src="https://i.imgur.com/Kk7UZfp.png" alt="@prachiblogs.hashnode.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
