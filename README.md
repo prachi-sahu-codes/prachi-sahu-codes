@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Sahu</h1>
 <h3 align="center">Passionate Frontend Developer crafting immersive user experiences.</h3>
 
-- 📫 How to reach me **prachisahu998@gmail.com**
+- 📫 How to reach me **prachi.sahu.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
